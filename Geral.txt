@@ -1,3 +1,7 @@
 -- Ajeitar o primeiro dia útil do mês 
 
--- Fazer forecast 
+-- Usar regressão em vez de classificação
+
+-- Último preço e Ajuste dia depois
+
+-- Fazer a verificação de preço de abertura que aparece na BMF e o que eu vejo na plataforma.
